@@ -1,5 +1,7 @@
+import { SimpleCounter } from "../../components/SimpleCounter";
+
 const Home = () => {
-    return(<p>Home Page</p>)
+    return(<SimpleCounter />)
 }
 
 export default Home;
