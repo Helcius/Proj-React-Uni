@@ -1,3 +1,7 @@
+# Setup para quando rodar pela primeira vez
+Assegurar que o node está instalado: npm -v
+Para instalar a pasta node_modules: npm i 
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

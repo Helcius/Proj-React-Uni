@@ -1,4 +1,5 @@
-import { SimpleCounter } from "../../components/SimpleCounter";
+import { SimpleCounter } from "../SimpleCounter";
+import "./styles.css";
 
 const Home = () => {
     return(<SimpleCounter />)
