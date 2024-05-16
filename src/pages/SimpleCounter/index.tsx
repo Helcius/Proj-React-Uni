@@ -17,7 +17,8 @@ export const SimpleCounter = () => {
 
 
 
-    return (<div className="counter_container">
+    return (
+    <div className="counter_container">
         <div className="counter_number">
             <h1>{count}</h1>
         </div>
@@ -28,3 +29,5 @@ export const SimpleCounter = () => {
     </div>
     )
 }
+
+export default SimpleCounter
